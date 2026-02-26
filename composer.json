@@ -1,6 +1,6 @@
 {
   "name" : "cbon/cbon",
-  "licence" : "MIT",
+  "license" : "MIT",
   "description": "blablalblalbblablalblalbblablalblalbblablalblalbblablalblalbblablalblalb",
   "require-dev": {
     "phpunit/phpunit": "^12.5"
