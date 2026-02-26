@@ -1,5 +1,5 @@
 {
-  "name" : "cbon",
+  "name" : "cbon/cbon",
   "description": "blablalblalbblablalblalbblablalblalbblablalblalbblablalblalbblablalblalb",
   "require-dev": {
     "phpunit/phpunit": "^12.5"
